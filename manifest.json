@@ -1,0 +1,9 @@
+{
+  "id": "ctrla-goes-home",
+  "name": "Ctrl-A Goes Home",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Makes Ctrl-A behave like Home: first press goes to start of line content, second press goes to column 0.",
+  "author": "Alex Levy <mesozoic@users.noreply.github.com>",
+  "isDesktopOnly": true
+}
